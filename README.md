@@ -2,6 +2,7 @@
 I'm a student trying to develop his knowledge of all things tech.
 - 🔭 I’m currently working on **Open source projects**
 - 🌱 I’m currently learning **DevOps**
+- 👯 I’m looking to collaborate on **Any sort of project**
 
 
 <!--
