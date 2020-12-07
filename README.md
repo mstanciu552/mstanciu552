@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a student trying to develop his knowledge of all things tech.
+- 🔭 I’m currently working on **Open source projects**
+- 🌱 I’m currently learning **DevOps**
+
 
 <!--
 **mstanciu552/mstanciu552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
