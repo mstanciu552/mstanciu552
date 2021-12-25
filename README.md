@@ -11,13 +11,7 @@ I'm a student trying to develop his knowledge of all things tech. I am really in
 - [Facebook](https://www.facebook.com/mihai.stanciu552)
 
 
-![](https://img.shields.io/badge/editor-VSCODE-%230099ff) ![](https://img.shields.io/badge/language-python-green) ![](https://img.shields.io/badge/language%20-javascript-green) ![](https://img.shields.io/badge/language-typescript-blue)
-
-
-<p align="center">
-  <img width="48%" src="https://user-images.githubusercontent.com/34579048/104122832-09182b00-5350-11eb-8c24-fe73cdef7d47.jpg" />
-  <img width="48%" src="https://user-images.githubusercontent.com/34579048/104123271-e2a7bf00-5352-11eb-8a62-faa8e96dd156.png" />
-</p>
+![](https://img.shields.io/badge/language-python-green) ![](https://img.shields.io/badge/language%20-javascript-green) ![](https://img.shields.io/badge/language-typescript-blue)
 
 
 <!--
