@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm a student trying to develop his knowledge of all things tech. I am really interested in **JavaScript** and **Python**.
-- 🔭 I’m currently working on **Open source projects**
-- 🌱 I’m currently learning **Design**
-- 👯 I’m looking to collaborate on **Any sort of project**
+- 🔭 I’m currently working on **Networking and Security**
+- 🌱 I’m currently learning **Cisco Routing and Switching**
 - 💬 Ask me about **anything**
 
 ## Find me on social media:
